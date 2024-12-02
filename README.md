@@ -1,4 +1,4 @@
-## Advent of Code
+# Advent of Code
 
 This repo consists of my solutions for the [Advent of Code](https://adventofcode.com/) event that's held every year.
 
